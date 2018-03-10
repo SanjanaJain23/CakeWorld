@@ -1,6 +1,6 @@
 # CakeWorld
 
-CakeWorld in an angular project where we can view list of cakes with their image and name from the api end point, Add new cake with name, comment and yumfactor and on click of any cake it redirects to cake details page where we can see cake details.
+CakeWorld in an angular project where we can view list of cakes with their image and name from the api end point, Add new cake with name, comment and yumfactor and on click of any cake it redirects to cake details page where we can see cake details. This project is responsive which can be viwed in mobile, tabs and desktops.
 
 Once downloaded the folder and unzipped on to your system, we will need local server in system to view the project running:
 1. If there is xammp or wamp please put the downloaded folder in htdocs folder and open the index.html file with proper url
