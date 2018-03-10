@@ -9,18 +9,18 @@ Once downloaded the folder and unzipped on to your system, we will need local se
 
 Folder structure:
 Cake
-    src
-      css
+    1.src
+      1.1.css
           //style sheet
-      js
+      1.2.js
           //js files, controller, service
-      node_modules
+      1.3.node_modules
           // external scripts like bootstrap, angularjs
-      partials
+      1.4.partials
           // all template
-      index.html
-      package.json
-      package-lock.json
+      1.5.index.html
+      1.6.package.json
+      1.7.package-lock.json
       
 
 
